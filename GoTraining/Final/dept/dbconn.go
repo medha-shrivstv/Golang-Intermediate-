@@ -66,7 +66,7 @@ func getCon(url, login, pass, dbname string) (*sql.DB, error) {
 // getDb loads the database connection properties from the "dbconn.properties" file
 // and establishes a connection to the database. It returns a pointer to sql.DB and an error if the connection fails.
 func getDb() (*sql.DB, error) {
-	propertiesPath := "C:/Users/z004fbbv/Desktop/GoTraining/Final/dept/dbconn.properties"
+	propertiesPath := "dbconn.properties"
 
 	p, err := readProperties(propertiesPath)
 	if err != nil {
