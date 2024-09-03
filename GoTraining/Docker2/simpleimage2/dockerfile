@@ -1,0 +1,4 @@
+FROM ubuntu
+COPY Lab1 .
+EXPOSE 8080
+CMD ["./Lab1"]

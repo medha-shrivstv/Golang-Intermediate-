@@ -1,0 +1,8 @@
+mode: set
+C:\Users\z004fbbv\Desktop\GoTraining\Testing\code.go:9.26,11.2 1 1
+C:\Users\z004fbbv\Desktop\GoTraining\Testing\code.go:13.41,17.14 3 1
+C:\Users\z004fbbv\Desktop\GoTraining\Testing\code.go:17.14,19.3 1 0
+C:\Users\z004fbbv\Desktop\GoTraining\Testing\code.go:20.2,20.23 1 1
+C:\Users\z004fbbv\Desktop\GoTraining\Testing\code.go:23.13,26.16 3 0
+C:\Users\z004fbbv\Desktop\GoTraining\Testing\code.go:26.16,28.3 1 0
+C:\Users\z004fbbv\Desktop\GoTraining\Testing\code.go:28.8,30.3 1 0

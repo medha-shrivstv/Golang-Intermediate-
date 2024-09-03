@@ -1,0 +1,4 @@
+FROM golang
+COPY Lab1.go .
+EXPOSE 8080
+CMD ["go", "run", "./Lab1.go"]
